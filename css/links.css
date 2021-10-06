@@ -56,3 +56,27 @@
 	color: blue;
 	text-decoration: underline;
 }
+
+.link8 {
+	margin: 400px;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	color: red; 
+	border: 4px solid red; 
+	padding: 50px; 
+}
+
+.link9 {
+	font-size: 46px; 
+	margin: 40px; 
+	border: 4px solid blue; 
+	padding: 70px; 
+}
+
+ol li{
+	font-size: 20px; 
+}
+
+.link10{
+	margin: 200px; 
+	background-color: grey; 
+}
